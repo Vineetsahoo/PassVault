@@ -1,0 +1,136 @@
+2025-04-21 10:35:19,284 - ERROR - Login error: Invalid salt
+2025-04-21 10:35:30,954 - ERROR - Login error: Invalid salt
+2025-04-21 10:37:29,199 - ERROR - Login bcrypt error: Invalid salt
+2025-04-21 10:37:42,726 - ERROR - Login bcrypt error: Invalid salt
+2025-04-21 10:40:07,264 - ERROR - Invalid bcrypt hash format for user Vineet2405: Vineet@200...
+2025-04-21 11:22:21,789 - INFO - package: mysql.connector.plugins
+2025-04-21 11:22:21,789 - INFO - plugin_name: caching_sha2_password
+2025-04-21 11:22:21,790 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 11:22:22,408 - INFO - Database connection pool created successfully.
+2025-04-21 11:22:22,522 - INFO - Database and tables set up successfully.
+2025-04-21 11:22:38,137 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 11:24:23,436 - INFO - package: mysql.connector.plugins
+2025-04-21 11:24:23,436 - INFO - plugin_name: caching_sha2_password
+2025-04-21 11:24:23,436 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 11:24:24,053 - INFO - Database connection pool created successfully.
+2025-04-21 11:24:24,208 - INFO - Database and tables set up successfully.
+2025-04-21 11:24:35,290 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 11:26:37,933 - INFO - package: mysql.connector.plugins
+2025-04-21 11:26:37,934 - INFO - plugin_name: caching_sha2_password
+2025-04-21 11:26:37,934 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 11:26:38,570 - INFO - Database connection pool created successfully.
+2025-04-21 11:26:38,680 - INFO - Database and tables set up successfully.
+2025-04-21 11:26:54,274 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 11:32:34,820 - INFO - package: mysql.connector.plugins
+2025-04-21 11:32:34,820 - INFO - plugin_name: caching_sha2_password
+2025-04-21 11:32:34,820 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 11:32:35,418 - INFO - Database connection pool created successfully.
+2025-04-21 11:32:35,521 - INFO - Database and tables set up successfully.
+2025-04-21 11:32:56,906 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 11:38:06,329 - INFO - package: mysql.connector.plugins
+2025-04-21 11:38:06,329 - INFO - plugin_name: caching_sha2_password
+2025-04-21 11:38:06,329 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 11:38:06,935 - INFO - Database connection pool created successfully.
+2025-04-21 11:38:07,066 - INFO - Database and tables set up successfully.
+2025-04-21 11:38:19,726 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 19:27:11,689 - INFO - package: mysql.connector.plugins
+2025-04-21 19:27:11,689 - INFO - plugin_name: caching_sha2_password
+2025-04-21 19:27:11,690 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 19:27:12,309 - INFO - Database connection pool created successfully.
+2025-04-21 19:27:12,398 - INFO - Database and tables set up successfully.
+2025-04-21 19:28:49,111 - INFO - package: mysql.connector.plugins
+2025-04-21 19:28:49,111 - INFO - plugin_name: caching_sha2_password
+2025-04-21 19:28:49,111 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 19:28:49,738 - INFO - Database connection pool created successfully.
+2025-04-21 19:28:49,838 - INFO - Database and tables set up successfully.
+2025-04-21 19:29:05,564 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 19:35:13,769 - INFO - package: mysql.connector.plugins
+2025-04-21 19:35:13,769 - INFO - plugin_name: caching_sha2_password
+2025-04-21 19:35:13,769 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 19:35:14,374 - INFO - Database connection pool created successfully.
+2025-04-21 19:35:14,456 - INFO - Database and tables set up successfully.
+2025-04-21 19:35:31,958 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 19:35:39,675 - ERROR - Load settings error: unknown option "-bg"
+2025-04-21 19:35:48,176 - ERROR - Load passwords error: 1146 (42S02): Table 'user_system.passwords' doesn't exist
+2025-04-21 19:36:52,539 - INFO - package: mysql.connector.plugins
+2025-04-21 19:36:52,539 - INFO - plugin_name: caching_sha2_password
+2025-04-21 19:36:52,539 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 19:36:53,173 - INFO - Database connection pool created successfully.
+2025-04-21 19:36:53,357 - INFO - Database and tables set up successfully.
+2025-04-21 19:37:03,820 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 19:37:21,086 - ERROR - Load passwords error: 1146 (42S02): Table 'user_system.passwords' doesn't exist
+2025-04-21 19:37:28,500 - ERROR - Load settings error: unknown option "-bg"
+2025-04-21 19:39:37,904 - INFO - package: mysql.connector.plugins
+2025-04-21 19:39:37,905 - INFO - plugin_name: caching_sha2_password
+2025-04-21 19:39:37,905 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 19:39:38,545 - INFO - Database connection pool created successfully.
+2025-04-21 19:39:38,650 - INFO - Database and tables set up successfully.
+2025-04-21 19:39:50,062 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 20:41:14,493 - INFO - package: mysql.connector.plugins
+2025-04-21 20:41:14,493 - INFO - plugin_name: caching_sha2_password
+2025-04-21 20:41:14,493 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 20:41:15,115 - INFO - Database connection pool created successfully.
+2025-04-21 20:41:15,240 - INFO - Database and tables set up successfully.
+2025-04-21 20:41:28,788 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 20:41:34,138 - ERROR - Load access logs error: 1146 (42S02): Table 'user_system.access_logs' doesn't exist
+2025-04-21 20:42:43,579 - ERROR - Load shared passwords error: 1146 (42S02): Table 'user_system.shared_passwords' doesn't exist
+2025-04-21 20:42:47,963 - ERROR - Load access logs error: 1146 (42S02): Table 'user_system.access_logs' doesn't exist
+2025-04-21 20:42:53,896 - ERROR - Load devices error: 1054 (42S22): Unknown column 'last_seen' in 'field list'
+2025-04-21 20:42:58,468 - ERROR - Load alerts error: 1054 (42S22): Unknown column 'service' in 'field list'
+2025-04-21 20:43:03,424 - ERROR - Load passwords error: 1146 (42S02): Table 'user_system.passwords' doesn't exist
+2025-04-21 20:43:29,170 - ERROR - Load passwords error: 1146 (42S02): Table 'user_system.passwords' doesn't exist
+2025-04-21 20:46:13,909 - INFO - package: mysql.connector.plugins
+2025-04-21 20:46:13,909 - INFO - plugin_name: caching_sha2_password
+2025-04-21 20:46:13,909 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 20:46:14,552 - INFO - Database connection pool created successfully.
+2025-04-21 20:46:14,664 - INFO - Database and tables set up successfully.
+2025-04-21 20:46:25,457 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 20:46:31,680 - ERROR - Load access logs error: 1146 (42S02): Table 'user_system.access_logs' doesn't exist
+2025-04-21 21:09:19,747 - INFO - package: mysql.connector.plugins
+2025-04-21 21:09:19,747 - INFO - plugin_name: caching_sha2_password
+2025-04-21 21:09:19,747 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 21:09:20,363 - INFO - Database connection pool created successfully.
+2025-04-21 21:09:20,735 - INFO - Database and tables set up successfully.
+2025-04-21 21:09:34,684 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 21:10:04,551 - ERROR - Load settings error: unknown option "-bg"
+2025-04-21 21:17:38,196 - INFO - package: mysql.connector.plugins
+2025-04-21 21:17:38,196 - INFO - plugin_name: caching_sha2_password
+2025-04-21 21:17:38,196 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 21:17:38,844 - INFO - Database connection pool created successfully.
+2025-04-21 21:17:38,961 - INFO - Database and tables set up successfully.
+2025-04-21 21:17:51,483 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-21 21:17:54,185 - ERROR - Load settings error: unknown option "-fg"
+2025-04-21 21:17:58,167 - ERROR - Load settings error: unknown option "-fg"
+2025-04-21 21:18:12,437 - ERROR - Load settings error: unknown option "-fg"
+2025-04-21 21:18:26,614 - ERROR - Load settings error: unknown option "-fg"
+2025-04-21 21:23:33,658 - INFO - package: mysql.connector.plugins
+2025-04-21 21:23:33,658 - INFO - plugin_name: caching_sha2_password
+2025-04-21 21:23:33,658 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 21:23:34,264 - INFO - Database connection pool created successfully.
+2025-04-21 21:23:34,393 - INFO - Database and tables set up successfully.
+2025-04-21 21:28:12,549 - INFO - package: mysql.connector.plugins
+2025-04-21 21:28:12,550 - INFO - plugin_name: caching_sha2_password
+2025-04-21 21:28:12,550 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-21 21:28:13,157 - INFO - Database connection pool created successfully.
+2025-04-21 21:28:13,293 - INFO - Database and tables set up successfully.
+2025-04-21 21:28:25,435 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-23 08:54:29,849 - INFO - package: mysql.connector.plugins
+2025-04-23 08:54:29,862 - INFO - plugin_name: caching_sha2_password
+2025-04-23 08:54:29,862 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 08:54:30,682 - INFO - Database connection pool created successfully.
+2025-04-23 08:54:30,929 - INFO - Database and tables set up successfully.
+2025-04-23 08:54:51,328 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-23 08:55:11,484 - ERROR - Load settings error: unknown option "-bg"
+2025-04-23 08:56:54,729 - ERROR - Save settings error: unknown option "-bg"
+2025-04-23 09:14:16,153 - INFO - package: mysql.connector.plugins
+2025-04-23 09:14:16,153 - INFO - plugin_name: caching_sha2_password
+2025-04-23 09:14:16,153 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 09:14:16,988 - INFO - Database connection pool created successfully.
+2025-04-23 09:14:17,149 - INFO - Database and tables set up successfully.
+2025-04-23 09:18:33,127 - INFO - package: mysql.connector.plugins
+2025-04-23 09:18:33,127 - INFO - plugin_name: caching_sha2_password
+2025-04-23 09:18:33,128 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-23 09:18:33,911 - INFO - Database connection pool created successfully.
+2025-04-23 09:18:34,085 - INFO - Database and tables set up successfully.
+2025-04-23 09:18:48,501 - INFO - Verifying password for user Vineet2405, stored hash: $2b$12$tpN...
+2025-04-23 09:20:01,530 - ERROR - Load settings error: unknown option "-bg"
